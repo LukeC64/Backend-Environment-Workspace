@@ -37,7 +37,7 @@ By the end of the semester, I will be able to:
 
 ## 4. Repository Structure
 
-
+```
 Backend-Environment-Workspace/
 ├── README.md
 ├── learning-log.md
@@ -47,3 +47,4 @@ Backend-Environment-Workspace/
 ├── Unit3-BackendScripting/
 ├── Unit4-AdvancedScripting/
 └── Unit5-RestfulAPIs/
+```
