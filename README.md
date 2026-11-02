@@ -1,1 +1,2 @@
 # Backend-Environment-Workspace
+My name is Luke Campana and the purpose of this repo is to help me keep track of my development progress, version control practices, and learning more about how to develop software properly with a clean, organized environment.
